@@ -1,9 +1,9 @@
 # Qiskit Fall Fest 2022 - TIET
 
-![alt text](http://url/to/img.png)
+![QiskitFallFest2022](https://github.com/developer-student-club-thapar/Qiskit-Fall-Fest-2022/blob/main/QiskitFallFest22.png)
 
 ## Welcome
-This is the Qiskit Fall Fest event for TIET. We're so exciting to have you all here. This event is being hosted by the [DSC TIET](https://google.com).
+This is the Qiskit Fall Fest event for TIET. We're so exciting to have you all here. This event is being hosted by the [DSC TIET](https://dsctiet.tech/#/events).
 
 The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team. Student leaders work alongside IBM throughout the month of September to design and plan their event, which are then run in October. The events vary from technical hackathons to beginner-friendly challenges, all with the goal of helping to grow the local community’s skill set.
 
