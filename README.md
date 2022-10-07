@@ -15,13 +15,36 @@ The Fall Fest here on TIET is going to be a workshop and challenge, starting on 
 - To officially sign up, register using [this link](https://forms.gle/WSbqTiQLqbpt1hZB6)
 
 
-## Hackathon Details
-Will be update soon, stay tuned!
-
-
 --------------------------------
 ## Schedule
-Will be update soon, stay tuned!
+Celebrate learning Quantum Computing and Qiskit this Fall Fest. The Fest will run throughout the week from 15 to 22 October 2022.
+
+<b>15th October 2022</b>
+- Offline session from 3PM onwards
+- Introduction to Quantum Computing
+- Fun Demos and games to learn better
+- Learn qiskit hands on, using [IBM Quantum Platform](https://quantum-computing.ibm.com/)
+
+<b>15th to 22nd October 2022</b>
+- Online Challenges to enhance your learning
+- Earn a certificate and try your hand at solving the challenges to win swag packs
+- 5 winners will get a change to win the swag packs
+- Reach out to organising team for help and guidance, we are here to learn together!
+
+<b>19th October 2022</b>
+- Online Tech Talk with Elena Peña Tapia
+- Mid week checkpoint to help you out with challenges
+
+<b>22nd October 2022</b>
+- Online Closing ceremony
+- Winners will be announced
+- If you enjoyed learning quantum computing, we will guide you on what next on your amazing journey ...!
+
+
+
+
+### Challenge
+Will be updated soon!
 
 <br>
 
