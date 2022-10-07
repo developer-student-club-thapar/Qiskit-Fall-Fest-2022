@@ -12,7 +12,7 @@ The Fall Fest here on TIET is going to be a workshop and challenge, starting on 
 --------------------------------
 ## Official Registration
 - Before you register, read the full rules [here](https://github.com/qiskit-community/fall-fest-22/blob/main/Qiskit%20Fall%20Fest%20Official%20Rules%20Template.docx). This is a hackathon for TIET only.
-- To officially sign up, register using [this link](https://forms.gle/WSbqTiQLqbpt1hZB6)
+- To officially sign up, register using [this link](https://bit.ly/3RY8B4t)
 
 
 --------------------------------
