@@ -44,7 +44,7 @@ Celebrate learning Quantum Computing and Qiskit this Fall Fest. The Fest will ru
 
 
 ### Challenge
-Will be updated soon!
+Check out the challenge folder of the repository
 
 <br>
 
