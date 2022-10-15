@@ -5,6 +5,10 @@
 ## Resources
 Here are some interesting resources that you can follow along to embark on this new journey!
 
+Our workshop recording: 
+
+Our presentation [here](https://docs.google.com/presentation/d/1Y42N3gMltLPOtoqwz8eUADKoF25XO3hC-Z7XcgSxTm8/edit?usp=sharing), use Thapar ID for access
+
 Qiskit Textbook: https://qiskit.org/textbook-beta/
 
 Resources compiled by DSC: https://linktr.ee/gdsctiet_qc
@@ -15,9 +19,9 @@ Qiskit Advocate Program:https://qiskit.org/advocates/
 
 QOSF Mentorship: https://qosf.org/qc_mentorship/
 
-IBM internship: https://research.ibm.com/blog/2023-quantum-internships
+IBM Internship: https://research.ibm.com/blog/2023-quantum-internships
 
-IBM quantum challenges and the IBM Quantum Platform
+IBM quantum challenges and the [IBM Quantum Platform](https://quantum-computing.ibm.com/)
 
 
 
