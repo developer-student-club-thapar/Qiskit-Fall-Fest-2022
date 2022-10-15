@@ -5,7 +5,7 @@
 ## Resources
 Here are some interesting resources that you can follow along to embark on this new journey!
 
-Our workshop recording: 
+Our workshop [recording](https://www.youtube.com/watch?v=APVxt-Trs_o&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=12)
 
 Our presentation [here](https://docs.google.com/presentation/d/1Y42N3gMltLPOtoqwz8eUADKoF25XO3hC-Z7XcgSxTm8/edit?usp=sharing), use Thapar ID for access
 
