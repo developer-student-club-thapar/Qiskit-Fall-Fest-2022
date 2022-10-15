@@ -11,7 +11,7 @@ The Fall Fest here on TIET is going to be a workshop and challenge, starting on 
 
 --------------------------------
 ## Official Registration
-- Before you register, read the full rules [here](https://github.com/qiskit-community/fall-fest-22/blob/main/Qiskit%20Fall%20Fest%20Official%20Rules%20Template.docx). This is a hackathon for TIET only.
+- Before you register, read the full rules [here](https://github.com/qiskit-community/fall-fest-22/blob/main/Qiskit%20Fall%20Fest%20Official%20Rules%20Template.docx). 
 - To officially sign up, register using [this link](https://bit.ly/3RY8B4t)
 
 
@@ -22,17 +22,20 @@ Celebrate learning Quantum Computing and Qiskit this Fall Fest. The Fest will ru
 <b>15th October 2022</b>
 - Offline session from 3PM onwards
 - Introduction to Quantum Computing
-- Fun Demos and games to learn better
+- Fun Demos and games to learn from
 - Learn qiskit hands on, using [IBM Quantum Platform](https://quantum-computing.ibm.com/)
+- You can find recording of the workshop [here]()
+- You can find the presentation [here](https://docs.google.com/presentation/d/1Y42N3gMltLPOtoqwz8eUADKoF25XO3hC-Z7XcgSxTm8/edit?usp=sharing), use Thapar ID for access
 
 <b>15th to 22nd October 2022</b>
 - Online Challenges to enhance your learning
 - Earn a certificate and try your hand at solving the challenges to win swag packs
 - 5 winners will get a change to win the swag packs
 - Reach out to organising team for help and guidance, we are here to learn together!
+- Find the challenge [here](https://github.com/developer-student-club-thapar/Qiskit-Fall-Fest-2022/tree/main/Challenge)
 
 <b>19th October 2022</b>
-- Online Tech Talk with Elena Peña Tapia
+- Online Tech Talk with Elena Peña Tapia, a Quantum Software Engineer at IBM Research!
 - Mid week checkpoint to help you out with challenges
 
 <b>22nd October 2022</b>
@@ -40,13 +43,16 @@ Celebrate learning Quantum Computing and Qiskit this Fall Fest. The Fest will ru
 - Winners will be announced
 - If you enjoyed learning quantum computing, we will guide you on what next on your amazing journey ...!
 
-
-
-
+--------------------------------
 ### Challenge
-Check out the challenge folder of the repository
+Check out the challenge folder of the repository or go [here](https://github.com/developer-student-club-thapar/Qiskit-Fall-Fest-2022/tree/main/Challenge)
 
-<br>
+--------------------------------
+
+### What next?
+Find great resources [here](), to continue on your journey of exploring quantum computing!
+
+--------------------------------
 
 <br><br>
-# [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
+[Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
