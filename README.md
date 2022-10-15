@@ -20,11 +20,11 @@ The Fall Fest here on TIET is going to be a workshop and challenge, starting on 
 Celebrate learning Quantum Computing and Qiskit this Fall Fest. The Fest will run throughout the week from 15 to 22 October 2022.
 
 <b>15th October 2022</b>
-- Offline session from 3PM onwards
+- Offline session from 3 PM onwards
 - Introduction to Quantum Computing
 - Fun Demos and games to learn from
 - Learn qiskit hands on, using [IBM Quantum Platform](https://quantum-computing.ibm.com/)
-- You can find recording of the workshop [here]()
+- You can find recording of the workshop [here](https://www.youtube.com/watch?v=APVxt-Trs_o&list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ&index=12)
 - You can find the presentation [here](https://docs.google.com/presentation/d/1Y42N3gMltLPOtoqwz8eUADKoF25XO3hC-Z7XcgSxTm8/edit?usp=sharing), use Thapar ID for access
 
 <b>15th to 22nd October 2022</b>
