@@ -37,20 +37,24 @@ Celebrate learning Quantum Computing and Qiskit this Fall Fest. The Fest will ru
 <b>19th October 2022</b>
 - Online Tech Talk with Elena Peña Tapia, a Quantum Software Engineer at IBM Research!
 - Mid week checkpoint to help you out with challenges
-
-<b>22nd October 2022</b>
-- Online Closing ceremony
-- Winners will be announced
-- If you enjoyed learning quantum computing, we will guide you on what next on your amazing journey ...!
+- Session recording [here](https://www.youtube.com/watch?v=ZtGkkyapoUQ)
 
 --------------------------------
 ### Challenge
 Check out the challenge folder of the repository or go [here](https://github.com/developer-student-club-thapar/Qiskit-Fall-Fest-2022/tree/main/Challenge)
 
+<b>Winners</b>
+1. Kush Gupta
+2. Angel Bansal
+3. Mannat Pruthi
+
 --------------------------------
 
 ### What next?
-Find great resources [here](), to continue on your journey of exploring quantum computing!
+- Complete Event Summary [here](https://www.linkedin.com/feed/update/urn:li:activity:6991285091024924672)
+- Complete Playlist [here](https://www.youtube.com/playlist?list=PLY6CWF3NWYvTducILRZCATDwW9DjZvumJ)
+- DSC Resources [here](https://linktr.ee/gdsctiet_qc)
+- Find other great resources [here](https://github.com/developer-student-club-thapar/Qiskit-Fall-Fest-2022/tree/main/What%20next%3F), to continue on your journey of exploring quantum computing!
 
 --------------------------------
 
